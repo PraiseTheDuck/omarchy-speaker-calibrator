@@ -13,7 +13,7 @@ does it. Everything happens in the panel. Nothing needs a terminal.
 ## Install
 
 ```bash
-omarchy plugin add https://github.com/thefreshoffice/omarchy-speaker-calibrator.git --enable
+omarchy plugin add https://github.com/PraiseTheDuck/omarchy-speaker-calibrator.git --enable
 ```
 
 That is the whole installation. Omarchy asks where to put the bar widget.
